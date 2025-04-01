@@ -11,8 +11,9 @@ The required dependencies and installations are as follows:
 - re (included with Python)
 
 ## How To Run
-1. Navigate to the directory where compare_directories.py is stored via terminal,
-2. Run **python shot_sorting.py**.
+1. Make a copy of **compare_directories.py** in the same directory with the shots to sort,
+2. Navigate to the directory where compare_directories.py and the shot files are stored via terminal,
+3. Run **python compare_directories.py**.
 
 ## Features
 - Organizes Files:
